@@ -1,7 +1,7 @@
 package render
 
 import (
-	"github.com/codegangsta/martini"
+	"github.com/melito/martini"
 	"html/template"
 	"net/http"
 	"net/http/httptest"

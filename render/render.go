@@ -27,7 +27,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/codegangsta/martini"
+	"github.com/melito/martini"
 	"html/template"
 	"io"
 	"io/ioutil"
